@@ -65,7 +65,7 @@ outputs:
 
 params:
     env: # to enable google analytics, opengraph, twitter-cards and schema (this was: production  )
-    description: "Discover the very best Kayak to buy with our honest reviews at Kayaktobuy.com!"
+    description: "Discover the very best Korean Skin products to buy with our honest reviews at kskinbeautiful.com!"
     author: Best Kayak To Buy
     # author: ["Me", "You"] # multiple authors
 
@@ -96,9 +96,9 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Best Kayak To Buy"
+        Title: "K Skin Beautiful"
         Content: >
-            Welcome to Bestkayaktobuy.com
+            Welcome to K Skin Beautiful, the home of the Best Korean Beauty products.  In this blog we review the best and latest korean beauty products.
 
             Check out our posts below.
 

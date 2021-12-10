@@ -1,7 +1,7 @@
 +++
 ShowBreadCrumbs = true
 ShowToc = true
-author = "Healthy Nail Guru"
+author = "K Skin Beautiful"
 date = 2021-09-07T23:00:00Z
 description = ""
 tags = []
@@ -10,7 +10,7 @@ title = "Privacy Policy"
 +++
 ## WHO WE ARE
 
-Our website address is: [https://bestkayaktobuy.com](https://bestkayaktobuy.com "https://bestkayaktobuy.com")
+Our website address is: [https://kskinbeautiful.com](https://kskinbeautiful.com "https://kskinbeautiful.com")
 
 ## COMMENTS
 
@@ -24,7 +24,7 @@ If you upload images to the website, you should avoid uploading images with embe
 
 ## COOKIES
 
-**I**f you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
 If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
@@ -50,7 +50,7 @@ For users that register on our website (if any), we also store the personal info
 
 ## WHAT RIGHTS YOU HAVE OVER YOUR DATA
 
-**Suggested text:** If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
 ## WHERE WE SEND YOUR DATA
 
